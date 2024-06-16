@@ -3,6 +3,10 @@
 
 A React-based weather dashboard application that fetches and displays current weather data and forecasts using the OpenWeatherMap API.
 
+# Deployed Link
+
+https://gowtham-weather-app.netlify.app/
+
 
 ## Installation
 
